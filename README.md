@@ -1,2 +1,2 @@
 # ResumePolishAi
-ResumePolishAi
+ResumePolishAi.
